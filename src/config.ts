@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Pamela Yung",
-  title: "Transforming data to inform decisions",
+  title: "Transforming data into better decisions",
   description: "Portfolio website of Pamela Yung",
   accentColor: "#1d4ed8",
   social: {

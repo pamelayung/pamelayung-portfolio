@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Pamela Yung",
-  title: "Graduating Senior at UC San Diego",
+  title: "Transforming data to inform decisions",
   description: "Portfolio website of Pamela Yung",
   accentColor: "#1d4ed8",
   social: {

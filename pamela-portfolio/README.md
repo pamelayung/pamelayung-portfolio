@@ -4,7 +4,7 @@
 Hi, I’m Pamela Yung. This is my personal portfolio website showcasing my work in machine learning, data science, and robotics.
 
 **Live Site:**  
-https://pamelayung.github.io/pamelayung-portfolio/
+https://pamelayung.github.io/
 
 ---
 

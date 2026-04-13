@@ -3,12 +3,12 @@
 
 Hi, I’m Pamela Yung. This is my personal portfolio website showcasing my work in machine learning, data science, and robotics.
 
-🌐 **Live Site:**  
+**Live Site:**  
 https://pamelayung.github.io/pamelayung-portfolio/
 
 ---
 
-## 🧠 About
+## About
 
 I’m a Cognitive Science student at UC San Diego specializing in Machine Learning and Neural Computation.
 
@@ -19,7 +19,7 @@ I’m interested in building systems that connect data, modeling, and real-world
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Astro  
 - TypeScript  
@@ -28,4 +28,4 @@ I’m interested in building systems that connect data, modeling, and real-world
 
 ---
 
-## 📂 Project Structure
+## Project Structure
